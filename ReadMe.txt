@@ -4,4 +4,5 @@ How do you prevent your content on the browser to be printscreened.
      outoff focus.So you can 
    > Disable the whole body when your windows is off focus.
    > see solution @https://stackoverflow.com/questions/3130983/stop-user-from-using-print-scrn-printscreen-key-of-the-keyboard-for-any-we/37604125#37604125
-   
+How do you prevent your content to be copy/cut paste ? 
+
